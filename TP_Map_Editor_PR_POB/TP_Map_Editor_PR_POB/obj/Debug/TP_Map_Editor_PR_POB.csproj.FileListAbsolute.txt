@@ -1,0 +1,20 @@
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\bin\Debug\TP_Map_Editor_PR_POB.exe.config
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\bin\Debug\TP_Map_Editor_PR_POB.exe
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\bin\Debug\TP_Map_Editor_PR_POB.pdb
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.csprojResolveAssemblyReference.cache
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.formEditor.resources
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.Properties.Resources.resources
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.csproj.GenerateResource.Cache
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.exe
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.pdb
+E:\Utilisateur\Philippe\Document\Cégep\Outils\TP1\tp_outils\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.NewMap.resources
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\bin\Debug\TP_Map_Editor_PR_POB.exe.config
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.exe
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.pdb
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.csprojResolveAssemblyReference.cache
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.FormEditor.resources
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.NewMap.resources
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.Properties.Resources.resources
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\obj\Debug\TP_Map_Editor_PR_POB.csproj.GenerateResource.Cache
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\bin\Debug\TP_Map_Editor_PR_POB.exe
+E:\Utilisateur\Philippe\Document\Cégep\Projet synthèse\MapEditor\TP_Map_Editor_PR_POB\TP_Map_Editor_PR_POB\bin\Debug\TP_Map_Editor_PR_POB.pdb
