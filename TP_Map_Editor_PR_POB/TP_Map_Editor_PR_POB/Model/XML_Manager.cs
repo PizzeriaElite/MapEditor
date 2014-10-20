@@ -46,7 +46,7 @@ namespace TP_Map_Editor_PR_POB
 
                 doc.Save(stream);
             }
-            catch(Exception)
+            catch(Exception e)
             {
                 return false;
             }

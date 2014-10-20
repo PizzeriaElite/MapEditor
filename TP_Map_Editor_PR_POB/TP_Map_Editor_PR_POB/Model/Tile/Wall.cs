@@ -12,12 +12,11 @@ namespace TP_Map_Editor_PR_POB
 {
     enum WallType
     {
-        Destructible,
-        Ground,
+        Floor,
         Wall,
         Platform,
-        Angle45Left,
-        Angle45Right,
+        AngleLeft45,
+        AngleRight45,
     }
 
     /// <summary>

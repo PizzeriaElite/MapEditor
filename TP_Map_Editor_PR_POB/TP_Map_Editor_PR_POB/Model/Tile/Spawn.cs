@@ -34,7 +34,7 @@ namespace TP_Map_Editor_PR_POB
 
         public override string[][] GetProperties()
         {
-            string[][] properties = new string[2][];
+            string[][] properties = new string[1][];
 
             properties[0] = new string[1];
             properties[0][0] = "Spawn";

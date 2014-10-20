@@ -146,23 +146,23 @@ namespace TP_Map_Editor_PR_POB
         {
             TP_Map_Editor_PR_POB.Controller.ToolBar.GetInstance().Changed += new EventHandler(toolbar_Changed);
 
-            CreateToolBarControls(TileTypes.Actor, Actor.Image);
-            CreateToolBarControls(TileTypes.Chest, Chest.image);
-            CreateToolBarControls(TileTypes.Containing, Containing.image);
+            //CreateToolBarControls(TileTypes.Actor, Actor.Image);
+            //CreateToolBarControls(TileTypes.Chest, Chest.image);
+            //CreateToolBarControls(TileTypes.Containing, Containing.image);
             CreateToolBarControls(TileTypes.Empty, Empty.image);
-            CreateToolBarControls(TileTypes.Enemy, Enemy.image);
-            CreateToolBarControls(TileTypes.EnemySpawner, EnemySpawner.image);
+            //CreateToolBarControls(TileTypes.Enemy, Enemy.image);
+            //CreateToolBarControls(TileTypes.EnemySpawner, EnemySpawner.image);
             CreateToolBarControls(TileTypes.Spawn, Spawn.image);
-            CreateToolBarControls(TileTypes.Exit, Exit.image);
-            CreateToolBarControls(TileTypes.Ladder, Ladder.image);
-            CreateToolBarControls(TileTypes.Movable, Movable.image);
-            CreateToolBarControls(TileTypes.Neutral, Neutral.image);
-            CreateToolBarControls(TileTypes.SpiderWeb, SpiderWeb.image);
-            CreateToolBarControls(TileTypes.Trap, Trap.image);
-            CreateToolBarControls(TileTypes.Treasure, Treasure.image);
-            CreateToolBarControls(TileTypes.Utilities, Utilities.image);
+            //CreateToolBarControls(TileTypes.Exit, Exit.image);
+            //CreateToolBarControls(TileTypes.Ladder, Ladder.image);
+            //CreateToolBarControls(TileTypes.Movable, Movable.image);
+            //CreateToolBarControls(TileTypes.Neutral, Neutral.image);
+            //CreateToolBarControls(TileTypes.SpiderWeb, SpiderWeb.image);
+            //CreateToolBarControls(TileTypes.Trap, Trap.image);
+            //CreateToolBarControls(TileTypes.Treasure, Treasure.image);
+            //CreateToolBarControls(TileTypes.Utilities, Utilities.image);
             CreateToolBarControls(TileTypes.Wall, Wall.image);
-            CreateToolBarControls(TileTypes.WallTreasure, WallTreasure.image);
+            //CreateToolBarControls(TileTypes.WallTreasure, WallTreasure.image);
         }
 
         private void toolbar_Changed(object sender, EventArgs e)
