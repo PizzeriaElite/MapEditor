@@ -445,7 +445,7 @@ namespace TP_Map_Editor_PR_POB
                 Stream myStream = null;
                 OpenFileDialog openFileDialog1 = new OpenFileDialog();
 
-                openFileDialog1.InitialDirectory = "c:\\";
+                openFileDialog1.InitialDirectory = "E:\\Utilisateur\\Philippe\\Document\\Cégep\\Projet synthèse\\Projet\\Unity\\ProjetSynthese\\Assets\\Levels";
                 openFileDialog1.Filter = "Fichiers XML (*.xml)|*.xml";
                 openFileDialog1.FilterIndex = 2;
                 openFileDialog1.RestoreDirectory = true;

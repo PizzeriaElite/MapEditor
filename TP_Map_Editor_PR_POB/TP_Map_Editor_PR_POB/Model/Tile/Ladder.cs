@@ -5,11 +5,30 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 using TP_Map_Editor_PR_POB.Controller;
+using System.ComponentModel;
 
 namespace TP_Map_Editor_PR_POB
 {
+
+    enum LadderType
+    {
+        Middle,
+        Top,
+        Bottom
+    }
+
     class Ladder: TileObject
     {
+
+
+        [Category("Option")]
+        [Description("Le type de d'échelle")]
+        [DisplayName("Échelle")]
+        public LadderType typeLadder
+        {
+            get;
+            set;
+        }
 
         public Ladder()
         {
@@ -33,10 +52,14 @@ namespace TP_Map_Editor_PR_POB
 
         public override string[][] GetProperties()
         {
-            string[][] properties = new string[1][];
+            string[][] properties = new string[2][];
 
             properties[0] = new string[1];
             properties[0][0] = "Ladder";
+
+            properties[1] = new string[2];
+            properties[1][0] = "Type";
+            properties[1][1] = typeLadder.ToString();
 
             return properties;
         }
@@ -55,7 +78,10 @@ namespace TP_Map_Editor_PR_POB
 
         public override Tile DeepCopy()
         {
-            return new Ladder();
+            Ladder tile = new Ladder();
+            tile.typeLadder = this.typeLadder;
+
+            return tile;
         }
     }
 

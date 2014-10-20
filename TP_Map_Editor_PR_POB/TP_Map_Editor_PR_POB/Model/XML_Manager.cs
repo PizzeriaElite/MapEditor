@@ -205,7 +205,7 @@ namespace TP_Map_Editor_PR_POB
                 }
                 return tiles;
             }
-            catch(Exception)
+            catch(Exception e)
             {
                 return null;
             }
