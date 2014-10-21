@@ -153,7 +153,7 @@ namespace TP_Map_Editor_PR_POB
             //CreateToolBarControls(TileTypes.Enemy, Enemy.image);
             //CreateToolBarControls(TileTypes.EnemySpawner, EnemySpawner.image);
             CreateToolBarControls(TileTypes.Spawn, Spawn.image);
-            //CreateToolBarControls(TileTypes.Exit, Exit.image);
+            CreateToolBarControls(TileTypes.Exit, Exit.image);
             CreateToolBarControls(TileTypes.Ladder, Ladder.image);
             //CreateToolBarControls(TileTypes.Movable, Movable.image);
             //CreateToolBarControls(TileTypes.Neutral, Neutral.image);
