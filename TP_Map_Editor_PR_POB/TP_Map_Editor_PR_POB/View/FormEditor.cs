@@ -28,8 +28,8 @@ namespace TP_Map_Editor_PR_POB
         {
             InitializeComponent();
             this.map = new Map();
-            this.WindowState = FormWindowState.Maximized;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.WindowState = FormWindowState.Normal;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Bounds = Screen.PrimaryScreen.Bounds;
             this.controller = new Controller(this);
             this.PopulateTileTypesPannel();
@@ -155,7 +155,7 @@ namespace TP_Map_Editor_PR_POB
             CreateToolBarControls(TileTypes.Spawn, Spawn.image);
             CreateToolBarControls(TileTypes.Exit, Exit.image);
             CreateToolBarControls(TileTypes.Ladder, Ladder.image);
-            //CreateToolBarControls(TileTypes.Movable, Movable.image);
+            CreateToolBarControls(TileTypes.Movable, Movable.image);
             //CreateToolBarControls(TileTypes.Neutral, Neutral.image);
             //CreateToolBarControls(TileTypes.SpiderWeb, SpiderWeb.image);
             //CreateToolBarControls(TileTypes.Trap, Trap.image);

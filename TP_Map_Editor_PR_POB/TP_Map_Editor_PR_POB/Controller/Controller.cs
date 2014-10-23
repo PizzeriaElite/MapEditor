@@ -27,6 +27,7 @@ namespace TP_Map_Editor_PR_POB
             private const string MSG_MAP_INVALID_DOOR = "La pièce n'est pas valide. Il manque l'entée et/ou la sortie";
             private const string TITLE_ABOUT = "À propos";
             private const string MSG_ABOUT = "Cet éditeur de pièce pour le jeu Spelunky à été créé par Philippe Rousseau et Pierre-Olivier Boulet";
+            private const string INITIAL_DIRECTORY = "E:\\Utilisateur\\Philippe\\Document\\Cégep\\Projet synthèse\\Projet\\Unity\\ProjetSynthese\\Assets\\Resources";
 
             private DataGridViewCell drag_cell;
 
@@ -445,7 +446,7 @@ namespace TP_Map_Editor_PR_POB
                 Stream myStream = null;
                 OpenFileDialog openFileDialog1 = new OpenFileDialog();
 
-                openFileDialog1.InitialDirectory = "E:\\Utilisateur\\Philippe\\Document\\Cégep\\Projet synthèse\\Projet\\Unity\\ProjetSynthese\\Assets\\Levels";
+                openFileDialog1.InitialDirectory = INITIAL_DIRECTORY;
                 openFileDialog1.Filter = "Fichiers XML (*.xml)|*.xml";
                 openFileDialog1.FilterIndex = 2;
                 openFileDialog1.RestoreDirectory = true;
